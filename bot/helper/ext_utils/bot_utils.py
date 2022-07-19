@@ -1,3 +1,4 @@
+import re
 from re import findall as re_findall
 from threading import Thread, Event
 from time import time
